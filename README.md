@@ -13,8 +13,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazemzz" alt="hazemzz" /></a> </p>
 <br>
 
-- 🔭 I’m currently working on **Baha** [Baha Portal](https://bahaportal.gama-ksa.com/)
-
 - 💬 Ask me about **C# .Net**
 
 - 📫 How to reach me **Hazem.eid997@gmail.com**
